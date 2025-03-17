@@ -1,5 +1,5 @@
 <h1 align="center">Hey Dude, Dharmbir here... </h1>
-<h3 align="center">A poet in between tech and exploration </h3>
+<h3 align="center">tech and exploration </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
