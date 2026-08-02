@@ -32,7 +32,7 @@ AI Backend Engineer • Machine Learning Developer • GenAI Enthusiast
 
 # 💫 About Me
 
-<img align="right" width="1000" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"/>
+<img align="right" width="350" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"/>
 
 🎓 **B.Tech CSE (AI & ML)**
 
