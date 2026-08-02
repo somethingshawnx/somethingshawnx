@@ -141,6 +141,12 @@ AI Backend Engineer • Machine Learning Developer • GenAI Enthusiast
 
 <h3 align="center">
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/somethingshawnx/somethingshawnx/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+</p>
+
 "Code. Learn. Build. Repeat."
 
 </h3>
