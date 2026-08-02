@@ -1,12 +1,12 @@
-<!-- Banner -->
+<!-- ============================ -->
+<!--           BANNER            -->
+<!-- ============================ -->
 
 <p align="center">
-<img src="assets/banner.png" width="100%">
+  <img src="assets/banner.png" alt="Banner" width="100%">
 </p>
 
-<h1 align="center">
-Hi 👋 I'm Dharmbir Singh
-</h1>
+<h1 align="center">Hi 👋, I'm Dharmbir Singh</h1>
 
 <h3 align="center">
 AI Backend Engineer • Machine Learning Developer • GenAI Enthusiast
@@ -14,48 +14,58 @@ AI Backend Engineer • Machine Learning Developer • GenAI Enthusiast
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=AI+Backend+Engineer;Machine+Learning+Developer;FastAPI+%7C+LangChain+%7C+Python;Building+Production+Ready+AI+Applications"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=750&lines=AI+Backend+Engineer;Machine+Learning+Developer;FastAPI+%7C+LangChain+%7C+Python;Building+Production+Ready+AI+Applications"/>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/somethingshawnx">
+<img src="https://img.shields.io/github/followers/somethingshawnx?label=Followers&style=for-the-badge">
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=somethingshawnx&style=for-the-badge&color=blue">
 
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 💫 About Me
 
-<img align="right" width="330" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"/>
+<img align="right" width="350" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"/>
 
-- 🎓 B.Tech CSE (AI & ML)
+🎓 **B.Tech CSE (AI & ML)**
 
-- 🤖 Building AI Backend Applications
+🤖 Passionate about building intelligent AI applications.
 
-- 🚀 Currently learning
+🚀 Currently exploring
 
-  - LangChain
-  - LangGraph
-  - RAG
-  - MCP
-  - Agentic AI
+- LangChain
+- LangGraph
+- RAG
+- MCP
+- Agentic AI
 
-- 💼 Interested in
+💼 Interested in
 
-  - AI Engineering
-  - Backend Development
-  - Machine Learning
-  - LLM Applications
+- AI Engineering
+- Backend Development
+- Machine Learning
+- LLM Applications
 
-- 📫 Reach me
+🌱 Currently building production-ready AI applications using Python and FastAPI.
 
-  **LinkedIn**
+📫 Reach me:
 
-  https://linkedin.com/in/dhambirsingh
+**LinkedIn:** https://linkedin.com/in/dhambirsingh
 
 ---
 
-# 🚀 Tech Stack
+# 🛠 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,fastapi,flask,tensorflow,pytorch,mysql,mongodb,git,github,docker,linux,vscode,figma,opencv&perline=8"/>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,fastapi,flask,tensorflow,pytorch,mysql,mongodb,docker,git,github,linux,vscode,figma,opencv&perline=8"/>
 
 </p>
 
@@ -63,23 +73,24 @@ AI Backend Engineer • Machine Learning Developer • GenAI Enthusiast
 
 # 🚀 Featured Projects
 
-| Project | Description |
-|----------|-------------|
+| 🚀 Project | Description |
+|------------|-------------|
 | 🤖 AI Resume Screener | ATS Resume Screening using NLP + Machine Learning |
-| 🧠 Resume JD Matcher | Semantic Resume Matching |
-| 📊 Shopify Sales Dashboard | Business Intelligence Dashboard |
-| 🩺 Multiple Disease Prediction | ML Prediction System |
+| 🧠 Resume JD Matcher | Semantic Resume Matching using AI |
+| 📊 Shopify Sales Analytics Dashboard | Business Intelligence Dashboard |
+| 🩺 Multiple Disease Prediction | ML-based Healthcare Prediction |
 | 📄 Academic Peer Review Assistant | AI-powered Research Review Tool |
+| 📚 Machine Learning Studio | Collection of Machine Learning Projects |
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=somethingshawnx&show_icons=true&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=somethingshawnx&show_icons=true&theme=tokyonight"/>
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=somethingshawnx&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=somethingshawnx&theme=tokyonight"/>
 
 </p>
 
@@ -105,23 +116,35 @@ AI Backend Engineer • Machine Learning Developer • GenAI Enthusiast
 
 ---
 
-# 🏆 GitHub Trophies
+# 🐍 Contribution Snake
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=somethingshawnx&theme=algolia&margin-w=10"/>
+<img src="https://raw.githubusercontent.com/somethingshawnx/somethingshawnx/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 
 </p>
 
 ---
 
-# 🌎 Connect With Me
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=somethingshawnx&theme=algolia&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
 
 <a href="https://linkedin.com/in/dhambirsingh">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
+
+&nbsp;&nbsp;
 
 <a href="https://github.com/somethingshawnx">
 <img src="https://skillicons.dev/icons?i=github"/>
@@ -131,22 +154,14 @@ AI Backend Engineer • Machine Learning Developer • GenAI Enthusiast
 
 ---
 
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=somethingshawnx&label=Profile%20Views&color=0e75b6&style=flat"/>
-
-</p>
-
----
-
 <h3 align="center">
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/somethingshawnx/somethingshawnx/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-</p>
-
-"Code. Learn. Build. Repeat."
+💡 *"Code. Learn. Build. Repeat."*
 
 </h3>
+
+<p align="center">
+
+⭐ If you like my work, consider following me and starring my repositories!
+
+</p>
