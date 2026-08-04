@@ -123,7 +123,7 @@ AI Backend Engineer • Machine Learning Engineer • GenAI Enthusiast
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/somethingshawnx/somethingshawnx/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/somethingshawnx/somethingshawnx/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
