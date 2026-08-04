@@ -127,38 +127,6 @@ AI Backend Engineer • Machine Learning Engineer • GenAI Enthusiast
 
 </p>
 
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=somethingshawnx&theme=tokyonight&no-frame=true&margin-w=15"/>
-
-</p>
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://linkedin.com/in/dhambirsingh">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://github.com/somethingshawnx">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-</p>
-
----
-
-<h3 align="center">
-
 💙 Turning Ideas into Intelligent AI Systems
 
 </h3>
