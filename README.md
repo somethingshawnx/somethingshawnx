@@ -99,16 +99,6 @@ AI Backend Engineer • Machine Learning Engineer • GenAI Enthusiast
 
 ---
 
-# 📈 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somethingshawnx&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 # 📈 Contribution Graph
 
 <p align="center">
@@ -123,7 +113,7 @@ AI Backend Engineer • Machine Learning Engineer • GenAI Enthusiast
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/somethingshawnx/somethingshawnx/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/somethingshawnx/somethingshawnx/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
 
 </p>
 
