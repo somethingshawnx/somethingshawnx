@@ -132,7 +132,7 @@ AI Backend Engineer • Machine Learning Engineer • GenAI Enthusiast
 
 </h3>
 
-
+<p align="center">
 
 ⭐ Thanks for visiting my profile! <br>
 If you like my work, consider ⭐ starring my repositories and following me.
